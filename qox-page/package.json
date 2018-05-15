@@ -1,0 +1,12 @@
+{
+    "name": "qox-page",
+    "version": "0.0.1",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "rax": "0.x.x",
+        "rax-recyclerview": "^0.6.3",
+        "rax-text": "0.x.x",
+        "rax-view": "0.x.x"
+    }
+}
